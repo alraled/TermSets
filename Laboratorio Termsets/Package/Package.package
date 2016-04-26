@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="001f9995-b25a-4a5e-9915-50735e984e82" 
+        solutionId="001f9995-b25a-4a5e-9915-50735e984e82" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Laboratorio_Termsets"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="c9115e9c-20b4-4fa2-8171-1ba4cbe3bba1" />
+  </features>
+</package>
